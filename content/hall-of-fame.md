@@ -1,0 +1,1 @@
+Nothing here, yet. Refer to https://mcalynn.com/.well-known/security.txt for more details.

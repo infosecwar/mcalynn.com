@@ -1,0 +1,23 @@
+- name: Home
+  link: /
+- name: Posts
+  link: posts/
+# - name: Mus
+#   link: /categories/music/
+#- name: Links
+#  submenu:
+#    - name: LinkedIn
+#      link: https://www.linkedin.com/
+#    - name: Twitter
+#      link: https://twitter.com/
+- name: About
+  link: about/
+- name: Book
+  link: book/
+- name: Podcast
+  link: podcast/
+- name: Talks
+  link: talks/
+- name: Articles
+  link: articles/
+

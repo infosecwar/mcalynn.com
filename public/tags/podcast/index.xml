@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Duncan McAlynn, Cybersecurity Professional</title>
+    <link>https://mcalynn.com/tags/podcast/</link>
+    <description>Recent content in podcast on Duncan McAlynn, Cybersecurity Professional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2005–2020, Duncan McAlynn and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcalynn.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberSpeaksLIVE Podcast Series</title>
+      <link>https://mcalynn.com/podcast/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcalynn.com/podcast/</guid>
+      <description>Listen to the entire series or subscribe using your favourite podcast player at:
+https://anchor.fm/cyberspeakslive
+Play the lastest episode right here, right now:
+ Past Episodes:
+                      </description>
+    </item>
+    
+  </channel>
+</rss>

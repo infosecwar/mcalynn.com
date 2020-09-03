@@ -1,0 +1,4 @@
+Contact: security@mcalynn.com
+Acknowledgments: https://mcalynn.com/hall-of-fame.html
+Preferred-Languages: en
+Canonical: https://mcalynn.com/.well-known/security.txt

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCCM on Duncan McAlynn, Cybersecurity Professional</title>
+    <link>https://mcalynn.com/tags/sccm/</link>
+    <description>Recent content in SCCM on Duncan McAlynn, Cybersecurity Professional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2005–2020, Duncan McAlynn and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcalynn.com/tags/sccm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks by Duncan McAlynn, Cybersecurity Professional</title>
+      <link>https://mcalynn.com/talks/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcalynn.com/talks/</guid>
+      <description>Veaam Live - How to Prevent Ransomware with Microsoft, Veeam &amp;amp; 3rd Party Technologies HD, 1280x720p   Jupiter Extras - Cyber Security Mistakes You&amp;rsquo;re Probably Making: Duncan McAlynn   BSides San Antonio - Does Patch Tuesday Really Matter Anymore? AKA: &amp;ldquo;Screw Patch Tuesday!&amp;rdquo;   Ziff Davis / Cisco - How to Think Like a Cybercriminal (So You Can Outwit Them)   Ziff Davis / Cisco - Working from Home: How to Keep Remote Workers Safe   Ziff Davis / Cisco - Is Your Cybersecurity on the Naughty List Again?</description>
+    </item>
+    
+  </channel>
+</rss>

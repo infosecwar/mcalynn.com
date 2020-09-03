@@ -1,0 +1,9 @@
+- item: "github"
+  url: "https://github.com/infosecwar"
+- item: "twitter"
+  url: "https://twitter.com/infosecwar"
+- item: "linkedin"
+  url: "https://www.linkedin.com/in/duncanmcalynn"
+- item: "rss"
+  url: "index.xml"
+  internal:  true
